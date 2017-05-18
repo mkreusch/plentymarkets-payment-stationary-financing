@@ -1,0 +1,23 @@
+{
+    "version"           : "1.0.0",
+    "name"              : "StationaryFinancing",
+    "marketplaceName"   : {"de":"Finanzierung (Fachmarkt)","en":"Financing (Stationary)"},
+    "license"           : "MIT",
+    "pluginIcon"        : "icon_plugin_xs.png",
+    "price"             : 0.00,
+    "description"       : "Sationary Financing plugin for plentymarkets online stores",
+    "shortDescription"  : {"de": "Finanzierung (Fachmarkt)","en": "Financing (Stationary)"},
+    "categories"        : ["3519"],
+    "author"            : "Marcus Kreusch",
+    "authorIcon"        : "icon_author_xs.png",
+    "email"             : "info@kreusch-creative.de",
+    "phone"             : "",
+    "keywords"          : [],
+    "type"              : "payment",
+    "namespace"         : "StationaryFinancing",
+    "serviceProvider"   : "StationaryFinancing\\Providers\\StationaryFinancingServiceProvider",
+    "javaScriptFiles"   : [],
+    "containers"        : [],
+    "dataProviders"     : [],
+    "dependencies"      : []
+}
